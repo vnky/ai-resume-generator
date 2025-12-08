@@ -1,4 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+Every AI app is just:
+
+## Frontend → API → AI Model → Response → UI
+There is NO magic.
+
+
 ## Vercel App 
 
 https://ai-resume-generator-roan.vercel.app/
